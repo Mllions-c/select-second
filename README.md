@@ -21,45 +21,49 @@ As 'bootstrap-datepicker' is restricted to the date scope (day, month, year), th
 
 ## Decade year view
 
-![Datetimepicker decade year view](https://raw.github.com/smalot/bootstrap-datetimepicker/master/screenshot/standard_decade.png)
+![Datetimesecond decade year view](https://raw.github.com/smalot/bootstrap-datetimepicker/master/screenshot/standard_decade.png)
 
 This view allows to select the day in the selected month.
 
 ## Year view
 
-![Datetimepicker year view](https://raw.github.com/smalot/bootstrap-datetimepicker/master/screenshot/standard_year.png)
+![Datetimesecond year view](https://raw.github.com/smalot/bootstrap-datetimepicker/master/screenshot/standard_year.png)
 
 This view allows to select the month in the selected year.
 
 ## Month view
 
-![Datetimepicker month view](https://raw.github.com/smalot/bootstrap-datetimepicker/master/screenshot/standard_month.png)
+![Datetimesecond month view](https://raw.github.com/smalot/bootstrap-datetimepicker/master/screenshot/standard_month.png)
 
 This view allows to select the year in a range of 10 years.
 
 ## Day view
 
-![Datetimepicker day view](https://raw.github.com/smalot/bootstrap-datetimepicker/master/screenshot/standard_day.png)
+![Datetimesecond day view](https://raw.github.com/smalot/bootstrap-datetimepicker/master/screenshot/standard_day.png)
 
 This view allows to select the hour in the selected day.
 
 ## Hour view
 
-![Datetimepicker hour view](https://raw.github.com/smalot/bootstrap-datetimepicker/master/screenshot/standard_hour.png)
+![Datetimesecond hour view](https://raw.github.com/smalot/bootstrap-datetimepicker/master/screenshot/standard_hour.png)
 
 This view allows to select the preset of minutes in the selected hour.
 The range of 5 minutes (by default) has been selected to restrict buttons quantity to an acceptable value, but it can be overrided by the <code>minuteStep</code> property.
 
 ## Day view - meridian
 
-![Datetimepicker day view meridian](https://raw.github.com/smalot/bootstrap-datetimepicker/master/screenshot/standard_day_meridian.png)
+![Datetimesecond day view meridian](https://raw.github.com/smalot/bootstrap-datetimepicker/master/screenshot/standard_day_meridian.png)
 
 Meridian is supported in both the day and hour views.
 To use it, just enable the <code>showMeridian</code> property.
 
 ## Hour view - meridian
 
-![Datetimepicker hour view meridian](https://raw.github.com/smalot/bootstrap-datetimepicker/master/screenshot/standard_hour_meridian.png)
+![Datetimesecond hour view meridian](https://raw.github.com/smalot/bootstrap-datetimepicker/master/screenshot/standard_hour_meridian.png)
+
+## Second view
+
+![Datetimesecond Second view](https://github.com/millionsstudy/select-second/blob/master/selectsecond.png)
 
 # Example
 
