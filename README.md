@@ -3,13 +3,14 @@
 
 [![Build Status](https://travis-ci.org/smalot/bootstrap-datetimepicker.svg?branch=master)](https://travis-ci.org/smalot/bootstrap-datetimepicker)
 
-[Homepage](http://www.malot.fr/bootstrap-datetimepicker/)
+[Initial Homepage](http://www.malot.fr/bootstrap-datetimepicker/)
 
-[Demo page](http://www.malot.fr/bootstrap-datetimepicker/demo.php)
+[Initial Demo page](http://www.malot.fr/bootstrap-datetimepicker/demo.php)
 
-# Project forked
+# Project introduce
 
-This project is a fork of [bootstrap-datepicker project](https://github.com/eternicode/bootstrap-datepicker).
+This project is a develop base on [bootstrap-datepicker project](https://github.com/eternicode/bootstrap-datepicker).
+Add function of select seconds
 
 
 # Home
