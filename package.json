@@ -22,17 +22,13 @@
     "host": "packages-12-west.internal.npmjs.com",
     "tmp": "tmp/bootstrap-datetime-picker-2.4.4.tgz_1488535258676_0.8355615343898535"
   },
-  "_npmUser": {
-    "name": "auspex",
-    "email": "auspex@auspex.eu"
-  },
   "_npmVersion": "3.10.3",
   "_phantomChildren": {},
   "_requested": {
     "raw": "bootstrap-datetime-picker@^2.3.9",
     "scope": null,
     "escapedName": "bootstrap-datetime-picker",
-    "name": "bootstrap-datetime-picker",
+    "name": "selectsecond",
     "rawSpec": "^2.3.9",
     "spec": ">=2.3.9 <3.0.0",
     "type": "range"
@@ -52,7 +48,7 @@
     "url": "https://github.com/smalot/bootstrap-datetimepicker"
   },
   "dependencies": {},
-  "description": "Both Date and Time picker widget based on twitter bootstrap",
+  "description": "Increase seconds selection function based on bootstrap-datetime-picker ^2.4.4",
   "devDependencies": {
     "grunt": "^1.0.1",
     "grunt-contrib-jshint": "^1.0.0",
@@ -66,7 +62,7 @@
     "tarball": "https://registry.npmjs.org/bootstrap-datetime-picker/-/bootstrap-datetime-picker-2.4.4.tgz"
   },
   "gitHead": "32143c8b45575e51c92a8e29997cbe556d1bbba3",
-  "homepage": "http://www.malot.fr/bootstrap-datetimepicker/",
+  "homepage": "https://github.com/millionsstudy/select-second",
   "keywords": [
     "bootstrap",
     "datetime",
@@ -74,7 +70,7 @@
   ],
   "license": "ISC",
   "main": "./js/bootstrap-datetimepickers.js",
-  "name": "bootstrap-datetimesecond",
+  "name": "selectsecond",
   "optionalDependencies": {},
   "readme": "ERROR: No README data found!",
   "repository": {
@@ -82,5 +78,5 @@
     "url": "https://github.com/millionsstudy/select-second.git"
   },
   "scripts": {},
-  "version": "1.0.0"
+  "version": "1.0.1"
 }

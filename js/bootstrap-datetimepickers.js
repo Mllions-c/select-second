@@ -33,7 +33,6 @@
     factory(jQuery);
 
 }(function($, undefined){
-  console.log('wuyu');
   // Add ECMA262-5 Array methods if not supported natively (IE8)
   if (!('indexOf' in Array.prototype)) {
     Array.prototype.indexOf = function (find, i) {
@@ -1987,7 +1986,6 @@
     }
   );
   $(function () {
-    console.log(1234);
     $('[data-provide="datetimepicker-inline"]').datetimepicker();
   });
 
